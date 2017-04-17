@@ -23,7 +23,7 @@ class TakeAway
   end
 
   def greet
-    puts "Welcome to #{ENV['REST_NAME']}!!"
+    puts "Welcome to #{ENV['REST_NAME']}!!" 
     puts File.read(load_path)
   end
 
