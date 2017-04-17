@@ -40,10 +40,6 @@ Gems
 2. <a href="https://github.com/mikel/mail">mail</a> (by mikel)
 3. <a href="https://github.com/bkeepers/dotenv">dotenv</a> (by bkeepers)
 
-Learning Outcomes
------
-- TDD
-
 Future Improvements
 -----
 - Remove items from an order
